@@ -2,7 +2,7 @@
   "@context": "http://iiif.io/api/presentation/2/context.json",
   "@type": "sc:Collection",
   "@id": "https://iiif-gallery-builder.example.org/Open Editions Collection",
-  "label": "Open Editions Set of 15",
+  "label": "Open Editions Collection",
   "items": [
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
